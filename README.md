@@ -14,7 +14,7 @@ HTML
 CSS
 
 Getting Started:
-[Open up the App] (https://hyrule-compendium.netlify.app/), and begin researching for different items or enemies found in The Legend of Zelda: Breath of the Wild. Try looking up iconic items like Master Sword or Arrow
+[Open up the App](https://hyrule-compendium.netlify.app/), and begin researching for different items or enemies found in The Legend of Zelda: Breath of the Wild. Try looking up iconic items like Master Sword or Arrow
 
 Future Features:
 Images! Keep an eye out for an implementation of images.
