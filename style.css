@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(42, 147, 151);
+    color: white;
+    text-align: center;
+    font-size: 20pt;
+    text-size-adjust: auto;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/979/250/398/the-legend-of-zelda-breath-of-the-wild-4k-background-for-computer-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+
+}
+
+h1 {
+    color: rgb(12, 0, 124);
+    font-family: 'Zen Antique Soft', serif;
+    text-size-adjust: auto;
+
+  }
+p {
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif; 
+    margin: auto;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 9px;
+    font-size: 36px;
+    text-size-adjust: auto;
+    
+}
+
+
