@@ -1,4 +1,4 @@
-# Project-One
+# Hyrule Encyclopedia
 
 TITLE: 
 
